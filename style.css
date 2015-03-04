@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+    background-size:100%,100%;
+    overflow: hidden;
+}
+
+#main {
+	height: calc(100% - 30px);
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
+
+html, footer{
+	color: lightblue;
+	font-style: verdana;
+}
